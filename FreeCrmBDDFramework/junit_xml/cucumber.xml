@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="47.722349">
+<testcase classname="Free CRM Login feature" name="Free CRM login Test Scenario" time="47.722349">
+<system-out><![CDATA[Given User is already on login Page.........................................passed
+When Title of the login page is Free CRM....................................passed
+Then User enters "rakeshit0913@gmail.com" and "Qualix2019"..................passed
+Then User clicks on Login Button............................................passed
+And User is on Home Page....................................................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
