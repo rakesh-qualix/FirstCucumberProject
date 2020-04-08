@@ -1,0 +1,203 @@
+http://hotel.easemytrip.com/metasearch.aspx?HotelID=EMTHotel-1189277&checkinDay=18&checkinMonth=1&checkinYear=2019&nights=1&adlts=1|&room=1&user=emthotels
+EMTHotel-1189277 Hotel is available for dated :13-1-2019
+
+EMTHotel-200472 Hotel is not available for dated   :29-12-2018  Going to search for next day!!!
+Name of the Hotel is :Vesta Maurya Palace
+EMTHotel-200472 : Hotel is available for dated :31-12-2018
+Price for Selected hotel is Rs.5017
+
+
+EMTHotel-514049 Hotel is not available for dated   :29-12-2018  Going to search for next day!!!
+Name of the Hotel is :Rajasthali Resort and Spa
+EMTHotel-514049 : Hotel is available for dated :30-12-2018
+Price for Selected hotel is Rs.30000
+
+Name of the Hotel is :Hotel Dollar Inn
+EMTHotel-399472 Hotel is available for dated :29-12-2018
+Price for Selected hotel is Rs.1700
+
+Name of the Hotel is :Imperial Clarks Inn Dehradun
+EMTHotel-1165451 Hotel is available for dated :29-12-2018
+Price for Selected hotel is Rs.3542
+============================================================================
+EMTHotel-862 Hotel is not available for dated   :29-12-2018  Going to search for next day!!!
+Name of the Hotel is :Comfort Inn Sunset
+EMTHotel-862 : Hotel is available for dated :7-1-2019
+Price for Selected hotel is Rs.4000
+============================================================================
+EMTHotel-1136245 Hotel is not available for dated   :29-12-2018  Going to search for next day!!!
+Name of the Hotel is :Hotel Mahadev Villa
+EMTHotel-1136245 : Hotel is available for dated :30-12-2018
+Price for Selected hotel is Rs.2450
+
+
+
+https://hotel.easemytrip.com/Hotel/HotelDescription?8685906f44634a6c8b1afac32d220599&commonID=EMTHotel-625
+
+EMTHotel-200391 :OOPS!!! Hotel not available.http://hotel.easemytrip.com/metasearch.aspx?HotelID=EMTHotel-200016&checkinDay=21&checkinMonth=12&checkinYear=2018&nights=1&adlts=1|&room=1&user=emthotels
+=================================
+package com.emtHotePage;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.text.DateFormat;
+import java.text.Format;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.List;
+import java.util.concurrent.TimeoutException;
+
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Sheet;
+import org.apache.poi.ss.usermodel.Workbook;
+import org.apache.poi.ss.usermodel.WorkbookFactory;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+import org.testng.annotations.Test;
+
+public class SearchHotelPage {
+	WebDriver driver;
+	@FindBy(xpath = ("//div[@class='prc']"))
+	private WebElement hotelPrice;
+
+	public SearchHotelPage(WebDriver driver) {
+		PageFactory.initElements(driver, this);
+		this.driver = driver;
+	}
+
+	@Test
+	public void hotelSearching() throws FileNotFoundException, TimeoutException {
+		//String baseUrl = "http://hotel.easemytrip.com/metasearch.aspx?HotelID=textHotel&checkinDay=dateChoosen&checkinMonth=12&checkinYear=2018&nights=1&adlts=1|&room=1&user=emthotels";
+		String baseUrl = "http://hotel.easemytrip.com/metasearch.aspx?HotelID=textHotel&checkinDay=dateChoosen&checkinMonth=mon&checkinYear=yr&nights=1&adlts=1|&room=1&user=emthotels";
+		String filePath = "D:\\EMTHotels.xlsx";
+		File file = new File(filePath);
+		FileInputStream fis = new FileInputStream(file);
+		try {
+			Workbook wb = WorkbookFactory.create(fis);
+			// Read sheet inside the workbook by its name
+			Sheet sh = wb.getSheet("Sheet1");
+			// Find number of rows in excel file
+			// int Firstrow=sh.getFirstRowNum();
+			int rowCount = sh.getLastRowNum() - sh.getFirstRowNum();
+			// System.out.println(rowCount);
+			// Create a loop over all the rows of excel file to read it
+			List<String> listOfHotelId = new ArrayList<String>();
+
+			for (int i = 0; i < rowCount + 1; i++) {
+				Row row = sh.getRow(i);
+				// Create a loop to print cell values in a row
+
+				for (int j = 0; j < row.getLastCellNum(); j++) {
+					String hotelId = row.getCell(j).getStringCellValue();
+					listOfHotelId.add(hotelId);
+				}
+
+			}
+			for (int k = 0; k < listOfHotelId.size(); k++) {
+				String id = listOfHotelId.get(k);
+				SimpleDateFormat formatter = new SimpleDateFormat("dd");
+				Date date = new Date();
+				
+			//	String currentDate = formatter.format(date);
+				formatter.format(date);
+				Calendar cal = Calendar.getInstance();
+				//cal.add(Calendar.DAY_OF_MONTH, 10);
+				cal.add(Calendar.DAY_OF_MONTH, 20);
+				String searchStartDay = formatter.format(cal.getTime());
+				 int month = Calendar.getInstance().get(Calendar.MONTH)+1;
+				String startMonth = Integer.toString(month);
+				 int year = Calendar.getInstance().get(Calendar.YEAR);
+				 String startYear = Integer.toString(year);
+
+				// System.out.println(currentDate);
+
+				//String hotelUrl = baseUrl.replaceAll("textHotel", id).replaceAll("dateChoosen", searchStartDay);
+				String hotelUrl = baseUrl.replaceAll("textHotel", id).replaceAll("dateChoosen", searchStartDay).replaceAll("mon", startMonth).replaceAll("yr", startYear);
+				driver.get(hotelUrl);
+				Thread.sleep(5000);
+				String urlOne = driver.getCurrentUrl();
+				if (urlOne.length() > 29) {
+					System.out.println(
+							id + " " + "Hotel is available for dated " + ":" + searchStartDay + "-" + "12" + "-" + "2018");
+					Thread.sleep(1000);
+					String prc = hotelPrice.getText();
+					System.out.println("Price for Selected hotel is Rs." + prc);
+			
+				}
+
+				else if (urlOne.length() < hotelUrl.length()) {
+
+					System.out.println(id + " " + "Hotel is not available for dated " + "  " + ":" + searchStartDay + "-"
+							+ "12" + "-" + "2018" + "\n" + " " + " " + "Going to search for next day!!!");
+					int l;
+					//for ( l = 11; l <= 25; l++) {
+					for ( l = 21; l <= 25; l++) {
+						Thread.sleep(2000);
+						//System.out.println(id);
+						Calendar cal1 = Calendar.getInstance();
+					
+						// Displaying current date in the desired format
+					cal1.add(Calendar.DAY_OF_MONTH, l);
+						// cal.add(Calendar.DAY_OF_MONTH, 9);
+						// Date after adding the days to the current date
+						String Date1 = formatter.format(cal1.getTime());
+						/*if(Date1.equalsIgnoreCase("01")){
+							Calendar dateNew = Calendar.getInstance();
+							dateNew.setTime(new Date());
+						    Format f = new SimpleDateFormat("dd-MM-yyyy");
+						    dateNew.add(Calendar.MONTH,1);
+						  String NewYearDateMonYear = f.format(dateNew.getTime());
+						  //System.out.println(NewYearDateMonYear);
+						String[] arrOfNewYrDate = NewYearDateMonYear.split("\\-");
+						 for (String newDate : arrOfNewYrDate) {
+					            System.out.println(newDate); 
+					    } 
+						
+//							 String hotelUrlNew = baseUrl.replaceAll("textHotel", id).replaceAll("dateChoosen", Date1).replaceAll("mon", startNewMonth).replaceAll("yr", startNewYear);
+//								driver.get(hotelUrlNew);
+						}*/
+						// System.out.println(Date1);
+						//String hotelUrlOne = baseUrl.replaceAll("textHotel", id).replaceAll("dateChoosen", Date1);
+						String hotelUrlOne = baseUrl.replaceAll("textHotel", id).replaceAll("dateChoosen", Date1).replaceAll("mon", startMonth).replaceAll("yr", startYear);
+						driver.get(hotelUrlOne);
+						String urlTwo = driver.getCurrentUrl();
+
+						if (urlTwo.length() > 29) {
+							Thread.sleep(3000);
+							System.out.println(id + " " + "Hotel is available for dated " + ":" + Date1 + "-" + "12"+ "-" + "2018");
+							Thread.sleep(1000);
+							String prc = hotelPrice.getText();
+							System.out.println("Price for Selected hotel is Rs." + prc);
+						
+						}
+
+						else if (urlTwo.length() < hotelUrlOne.length()) {
+							if(l==25){
+								System.out.println(id+"OOPS!!! Hotel not available.");
+							}
+							
+						
+						}
+					}
+
+					Thread.sleep(5000);
+				}
+			}
+			
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
+	}
+
+	
+	
+}
+
+
+

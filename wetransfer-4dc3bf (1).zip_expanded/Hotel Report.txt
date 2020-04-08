@@ -1,0 +1,569 @@
+Report for 202 hotels:
+=====================================================
+EMTHotel-1108189 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.8050
+EMTHotel-183555 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-183555 :OOPS!!! Hotel not available.
+EMTHotel-142368 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-142368 :OOPS!!! Hotel not available.
+EMTHotel-200391 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-200391 : Hotel is available for dated :29-12-2018
+Price for Selected hotel is Rs.2248
+EMTHotel-200391 :OOPS!!! Hotel not available.
+EMTHotel-200016 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2843
+EMTHotel-190616 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-190616 :OOPS!!! Hotel not available.
+EMTHotel-241574 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-241574 :OOPS!!! Hotel not available.
+EMTHotel-625 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-625 :OOPS!!! Hotel not available.
+EMTHotel-519642 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.1978
+EMTHotel-1074843 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1074843 : Hotel is available for dated :29-12-2018
+Price for Selected hotel is Rs.2624
+EMTHotel-1074843 :OOPS!!! Hotel not available.
+EMTHotel-201805 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.6252
+EMTHotel-157994 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-157994 :OOPS!!! Hotel not available.
+EMTHotel-1156100 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2988
+EMTHotel-200471 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-200471 :OOPS!!! Hotel not available.
+EMTHotel-1189953 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2714
+EMTHotel-208007 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-208007 :OOPS!!! Hotel not available.
+EMTHotel-208005 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-208005 :OOPS!!! Hotel not available.
+EMTHotel-41884 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-41884 :OOPS!!! Hotel not available.
+EMTHotel-1035367 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1035367 :OOPS!!! Hotel not available.
+EMTHotel-100561 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.5607
+EMTHotel-1050671 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.4262
+EMTHotel-1165451 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3979
+EMTHotel-862 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-862 :OOPS!!! Hotel not available.
+EMTHotel-1136245 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2275
+EMTHotel-403653 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2783
+EMTHotel-170520 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.4451
+EMTHotel-1141592 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.1955
+EMTHotel-1106537 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1106537 :OOPS!!! Hotel not available.
+EMTHotel-1189691 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1189691 :OOPS!!! Hotel not available.
+EMTHotel-602255 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.1719
+EMTHotel-405295 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-405295 :OOPS!!! Hotel not available.
+EMTHotel-1027658 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.7935
+EMTHotel-142714 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-142714 :OOPS!!! Hotel not available.
+EMTHotel-1128222 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3105
+EMTHotel-1128211 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.4336
+EMTHotel-403781 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3680
+EMTHotel-388022 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-388022 :OOPS!!! Hotel not available.
+EMTHotel-1127184 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2070
+EMTHotel-1036116 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1036116 :OOPS!!! Hotel not available.
+EMTHotel-135370 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2848
+EMTHotel-68974 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.5980
+EMTHotel-1165426 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1165426 : Hotel is available for dated :22-12-2018
+Price for Selected hotel is Rs.3979
+EMTHotel-1165426 : Hotel is available for dated :25-12-2018
+Price for Selected hotel is Rs.3979
+EMTHotel-1165426 :OOPS!!! Hotel not available.
+EMTHotel-399472 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.1955
+EMTHotel-305454 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-305454 :OOPS!!! Hotel not available.
+EMTHotel-1189816 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1189816 :OOPS!!! Hotel not available.
+EMTHotel-466661 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-466661 :OOPS!!! Hotel not available.
+EMTHotel-15334 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-15334 :OOPS!!! Hotel not available.
+EMTHotel-405736 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-405736 :OOPS!!! Hotel not available.
+EMTHotel-388029 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2243
+EMTHotel-1061530 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1061530 :OOPS!!! Hotel not available.
+EMTHotel-1146977 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.4485
+EMTHotel-1020923 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3910
+EMTHotel-1150229 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.5060
+EMTHotel-256988 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3204
+EMTHotel-405220 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2358
+EMTHotel-405795 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-405795 :OOPS!!! Hotel not available.
+EMTHotel-77975 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-77975 :OOPS!!! Hotel not available.
+EMTHotel-171056 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.7360
+EMTHotel-1133827 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2128
+EMTHotel-388355 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-388355 :OOPS!!! Hotel not available.
+EMTHotel-404459 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.4430
+EMTHotel-1100418 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1100418 :OOPS!!! Hotel not available.
+EMTHotel-360565 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-360565 :OOPS!!! Hotel not available.
+EMTHotel-201341 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-201341 :OOPS!!! Hotel not available.
+EMTHotel-348688 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.10350
+EMTHotel-514049 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.11500
+EMTHotel-1054851 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1054851 : Hotel is available for dated :29-12-2018
+Price for Selected hotel is Rs.5304
+EMTHotel-1054851 :OOPS!!! Hotel not available.
+EMTHotel-141323 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-141323 :OOPS!!! Hotel not available.
+EMTHotel-388635 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-388635 :OOPS!!! Hotel not available.
+EMTHotel-1189277 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.1494
+EMTHotel-1150017 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.7091
+EMTHotel-89083 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-89083 : Hotel is available for dated :29-12-2018
+Price for Selected hotel is Rs.2424
+EMTHotel-89083 :OOPS!!! Hotel not available.
+EMTHotel-1188837 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3048
+EMTHotel-218267 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-218267 :OOPS!!! Hotel not available.
+EMTHotel-346591 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3841
+EMTHotel-94754 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-94754 :OOPS!!! Hotel not available.
+EMTHotel-1133115 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2818
+EMTHotel-602597 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-602597 :OOPS!!! Hotel not available.
+EMTHotel-94539 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-94539 :OOPS!!! Hotel not available.
+EMTHotel-1097870 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1097870 : Hotel is available for dated :26-12-2018
+Price for Selected hotel is Rs.3534
+EMTHotel-1097870 :OOPS!!! Hotel not available.
+EMTHotel-1032835 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1032835 :OOPS!!! Hotel not available.
+EMTHotel-389097 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-389097 : Hotel is available for dated :29-12-2018
+Price for Selected hotel is Rs.1599
+EMTHotel-389097 :OOPS!!! Hotel not available.
+EMTHotel-999893 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.5519
+EMTHotel-505331 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.5677
+EMTHotel-1125831 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2875
+EMTHotel-42783 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-42783 :OOPS!!! Hotel not available.
+EMTHotel-21685 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-21685 :OOPS!!! Hotel not available.
+EMTHotel-1190408 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1190408 :OOPS!!! Hotel not available.
+EMTHotel-271527 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-271527 :OOPS!!! Hotel not available.
+EMTHotel-310557 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-310557 :OOPS!!! Hotel not available.
+EMTHotel-51619 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-51619 :OOPS!!! Hotel not available.
+EMTHotel-189600 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.4138
+EMTHotel-1137022 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2300
+EMTHotel-1049691 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.1610
+EMTHotel-200472 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-200472 :OOPS!!! Hotel not available.
+EMTHotel-401822 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.4658
+EMTHotel-201734 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-201734 : Hotel is available for dated :29-12-2018
+Price for Selected hotel is Rs.2822
+EMTHotel-201734 :OOPS!!! Hotel not available.
+EMTHotel-992548 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-992548 : Hotel is available for dated :29-12-2018
+Price for Selected hotel is Rs.1821
+EMTHotel-992548 :OOPS!!! Hotel not available.
+EMTHotel-1100871 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.4168
+EMTHotel-1134623 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1134623 :OOPS!!! Hotel not available.
+EMTHotel-1105451 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1105451 :OOPS!!! Hotel not available.
+EMTHotel-1034907 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3467
+EMTHotel-17046 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.4600
+EMTHotel-1135070 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1135070 :OOPS!!! Hotel not available.
+EMTHotel-173695 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-173695 :OOPS!!! Hotel not available.
+EMTHotel-298380 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-298380 : Hotel is available for dated :26-12-2018
+Price for Selected hotel is Rs.4000
+EMTHotel-298380 :OOPS!!! Hotel not available.
+EMTHotel-339299 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.4890
+EMTHotel-171694 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-171694 :OOPS!!! Hotel not available.
+EMTHotel-466664 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3564
+EMTHotel-201806 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-201806 : Hotel is available for dated :29-12-2018
+Price for Selected hotel is Rs.1813
+EMTHotel-201806 :OOPS!!! Hotel not available.
+EMTHotel-1036582 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2473
+EMTHotel-1128366 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1128366 :OOPS!!! Hotel not available.
+EMTHotel-402285 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-402285 :OOPS!!! Hotel not available.
+EMTHotel-1045362 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1045362 :OOPS!!! Hotel not available.
+EMTHotel-389593 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.1955
+EMTHotel-1046369 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1046369 :OOPS!!! Hotel not available.
+EMTHotel-403752 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.5405
+EMTHotel-276967 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.4600
+EMTHotel-66052 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-66052 :OOPS!!! Hotel not available.
+EMTHotel-298996 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-298996 :OOPS!!! Hotel not available.
+EMTHotel-337767 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.633
+EMTHotel-1082552 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1082552 :OOPS!!! Hotel not available.
+EMTHotel-123294 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-123294 : Hotel is available for dated :29-12-2018
+Price for Selected hotel is Rs.4755
+EMTHotel-123294 :OOPS!!! Hotel not available.
+EMTHotel-90896 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.5520
+EMTHotel-1116756 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.4646
+EMTHotel-90519 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-90519 :OOPS!!! Hotel not available.
+EMTHotel-466579 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-466579 :OOPS!!! Hotel not available.
+EMTHotel-170788 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.5184
+EMTHotel-1029425 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3565
+EMTHotel-602626 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2512
+EMTHotel-71413 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-71413 : Hotel is available for dated :25-12-2018
+Price for Selected hotel is Rs.3064
+EMTHotel-71413 :OOPS!!! Hotel not available.
+EMTHotel-403386 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-403386 : Hotel is available for dated :23-12-2018
+Price for Selected hotel is Rs.4550
+EMTHotel-403386 :OOPS!!! Hotel not available.
+EMTHotel-1047700 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3013
+EMTHotel-74894 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-74894 :OOPS!!! Hotel not available.
+EMTHotel-525246 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.6912
+EMTHotel-1048037 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1048037 :OOPS!!! Hotel not available.
+EMTHotel-1126789 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3636
+EMTHotel-563908 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.19565
+EMTHotel-388088 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3864
+EMTHotel-1100389 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.4024
+EMTHotel-1045516 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1045516 :OOPS!!! Hotel not available.
+EMTHotel-1050706 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.4221
+EMTHotel-366639 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3864
+EMTHotel-2350 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-2350 :OOPS!!! Hotel not available.
+EMTHotel-1100602 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.1610
+EMTHotel-988186 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2944
+EMTHotel-200860 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.8522
+EMTHotel-200120 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-200120 : Hotel is available for dated :25-12-2018
+Price for Selected hotel is Rs.1872
+EMTHotel-200120 :OOPS!!! Hotel not available.
+EMTHotel-401666 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2875
+EMTHotel-127246 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-127246 :OOPS!!! Hotel not available.
+EMTHotel-406926 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-406926 :OOPS!!! Hotel not available.
+EMTHotel-388147 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-388147 :OOPS!!! Hotel not available.
+EMTHotel-26375 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-26375 :OOPS!!! Hotel not available.
+EMTHotel-466450 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2070
+EMTHotel-200329 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-200329 : Hotel is available for dated :29-12-2018
+Price for Selected hotel is Rs.5394
+EMTHotel-200329 :OOPS!!! Hotel not available.
+EMTHotel-388945 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-388945 : Hotel is available for dated :25-12-2018
+Price for Selected hotel is Rs.2992
+EMTHotel-388945 :OOPS!!! Hotel not available.
+EMTHotel-135371 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-135371 :OOPS!!! Hotel not available.
+EMTHotel-200349 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-200349 : Hotel is available for dated :29-12-2018
+Price for Selected hotel is Rs.4663
+EMTHotel-200349 :OOPS!!! Hotel not available.
+EMTHotel-68137 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-68137 : Hotel is available for dated :29-12-2018
+Price for Selected hotel is Rs.2396
+EMTHotel-68137 :OOPS!!! Hotel not available.
+EMTHotel-201006 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3508
+EMTHotel-78411 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-78411 :OOPS!!! Hotel not available.
+EMTHotel-348633 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.6900
+EMTHotel-219280 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-219280 :OOPS!!! Hotel not available.
+EMTHotel-519474 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-519474 :OOPS!!! Hotel not available.
+EMTHotel-515160 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-515160 :OOPS!!! Hotel not available.
+EMTHotel-183003 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-183003 :OOPS!!! Hotel not available.
+EMTHotel-360316 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3220
+EMTHotel-389017 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3220
+EMTHotel-403385 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-403385 : Hotel is available for dated :23-12-2018
+Price for Selected hotel is Rs.5040
+EMTHotel-403385 :OOPS!!! Hotel not available.
+EMTHotel-389721 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-389721 :OOPS!!! Hotel not available.
+EMTHotel-1093568 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1093568 :OOPS!!! Hotel not available.
+EMTHotel-1129871 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.1702
+EMTHotel-1135859 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1135859 :OOPS!!! Hotel not available.
+EMTHotel-293540 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-293540 :OOPS!!! Hotel not available.
+EMTHotel-295330 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-295330 :OOPS!!! Hotel not available.
+EMTHotel-190614 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-190614 :OOPS!!! Hotel not available.
+EMTHotel-201712 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.3278
+EMTHotel-602860 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-602860 :OOPS!!! Hotel not available.
+EMTHotel-997296 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-997296 :OOPS!!! Hotel not available.
+EMTHotel-1083579 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1083579 :OOPS!!! Hotel not available.
+EMTHotel-200853 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-200853 :OOPS!!! Hotel not available.
+EMTHotel-1069786 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2540
+EMTHotel-406326 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.1265
+EMTHotel-401886 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.1955
+EMTHotel-406977 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-406977 :OOPS!!! Hotel not available.
+EMTHotel-405441 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.2657
+EMTHotel-1127786 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.5362
+EMTHotel-163945 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.10086
+EMTHotel-163935 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-163935 :OOPS!!! Hotel not available.
+EMTHotel-523877 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-523877 : Hotel is available for dated :29-12-2018
+Price for Selected hotel is Rs.5499
+EMTHotel-523877 :OOPS!!! Hotel not available.
+EMTHotel-1100648 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1100648 :OOPS!!! Hotel not available.
+EMTHotel-1012541 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1012541 : Hotel is available for dated :26-12-2018
+Price for Selected hotel is Rs.4000
+EMTHotel-1012541 :OOPS!!! Hotel not available.
+EMTHotel-200877 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-200877 :OOPS!!! Hotel not available.
+EMTHotel-31325 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-31325 : Hotel is available for dated :29-12-2018
+Price for Selected hotel is Rs.1572
+EMTHotel-31325 :OOPS!!! Hotel not available.
+EMTHotel-83247 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.4743
+EMTHotel-44396 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-44396 :OOPS!!! Hotel not available.
+EMTHotel-201759 Hotel is available for dated :20-12-2018
+Price for Selected hotel is Rs.5175
+EMTHotel-1020250 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1020250 :OOPS!!! Hotel not available.
+EMTHotel-25439 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-25439 :OOPS!!! Hotel not available.
+EMTHotel-1045463 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1045463 :OOPS!!! Hotel not available.
+EMTHotel-1059458 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-1059458 :OOPS!!! Hotel not available.
+EMTHotel-348846 Hotel is not available for dated   :20-12-2018
+  Going to search for next day!!!
+EMTHotel-348846 : Hotel is available for dated :23-12-2018
