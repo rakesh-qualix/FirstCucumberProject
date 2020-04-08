@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19859790" started-at="2019-01-03T13:17:24Z" finished-at="2019-01-03T18:48:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19859790" started-at="2019-01-03T13:17:24Z" finished-at="2019-01-03T18:48:24Z">
+      <class name="com.emtHotePage.HotelTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.emtHotePage.HotelTest@1060b431]" name="setUp" is-config="true" duration-ms="4862" started-at="2019-01-03T13:17:24Z" finished-at="2019-01-03T13:17:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="goingToSearchHotel()[pri:0, instance:com.emtHotePage.HotelTest@1060b431]" name="goingToSearchHotel" duration-ms="19844880" started-at="2019-01-03T13:17:29Z" finished-at="2019-01-03T18:48:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goingToSearchHotel -->
+        <test-method status="PASS" signature="closingCionnection()[pri:0, instance:com.emtHotePage.HotelTest@1060b431]" name="closingCionnection" is-config="true" duration-ms="10030" started-at="2019-01-03T18:48:13Z" finished-at="2019-01-03T18:48:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingCionnection -->
+      </class> <!-- com.emtHotePage.HotelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
