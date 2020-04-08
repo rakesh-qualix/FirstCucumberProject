@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 120.017 s <<< FAILURE! - in TestSuite
+goingToMakePayment(com.easemytrip.scripts.RunScript)  Time elapsed: 6.418 s  <<< FAILURE!
+java.lang.IndexOutOfBoundsException: Index: 9, Size: 8
+	at com.easemytrip.scripts.RunScript.goingToMakePayment(RunScript.java:125)
+

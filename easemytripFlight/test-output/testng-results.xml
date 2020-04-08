@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="5" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[Firefox launched      Going to execute Tests]]>
+    </line>
+    <line>
+      <![CDATA[ Please Wait!!!!!!---> Browser is navigating to www.easemytrip.com!!!!!<----]]>
+    </line>
+    <line>
+      <![CDATA[Screenshot has been taken]]>
+    </line>
+  </reporter-output>
+  <suite name="Regression_Suite" duration-ms="109886" started-at="2018-10-11T11:22:54Z" finished-at="2018-10-11T11:24:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="109886" started-at="2018-10-11T11:22:54Z" finished-at="2018-10-11T11:24:44Z">
+      <class name="com.easemytrip.scripts.RunScript">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="setUp" is-config="true" duration-ms="10905" started-at="2018-10-11T11:22:54Z" finished-at="2018-10-11T11:23:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Firefox launched      Going to execute Tests]]>
+            </line>
+            <line>
+              <![CDATA[ Please Wait!!!!!!---> Browser is navigating to www.easemytrip.com!!!!!<----]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="startReport" is-config="true" duration-ms="111" started-at="2018-10-11T11:23:05Z" depends-on-methods="com.easemytrip.generic.BaseLib.setUp" finished-at="2018-10-11T11:23:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="callSearchFlight()[pri:1, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="callSearchFlight" duration-ms="29427" started-at="2018-10-11T11:23:05Z" description="Flight displayed....." finished-at="2018-10-11T11:23:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callSearchFlight -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="getResult" is-config="true" duration-ms="5" started-at="2018-10-11T11:23:34Z" finished-at="2018-10-11T11:23:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=callSearchFlight status=SUCCESS method=RunScript.callSearchFlight()[pri:1, instance:com.easemytrip.scripts.RunScript@6121c9d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="getScreen(org.testng.ITestResult)[pri:0, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="getScreen" is-config="true" duration-ms="0" started-at="2018-10-11T11:23:34Z" finished-at="2018-10-11T11:23:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=callSearchFlight status=SUCCESS method=RunScript.callSearchFlight()[pri:1, instance:com.easemytrip.scripts.RunScript@6121c9d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreen -->
+        <test-method status="PASS" signature="toCheckInternationOrDomesticFlights()[pri:2, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="toCheckInternationOrDomesticFlights" duration-ms="9750" started-at="2018-10-11T11:23:34Z" description="Check Whether searching flight is for Domestic or International:" depends-on-methods="com.easemytrip.scripts.RunScript.callSearchFlight" finished-at="2018-10-11T11:23:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toCheckInternationOrDomesticFlights -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="getResult" is-config="true" duration-ms="1" started-at="2018-10-11T11:23:44Z" finished-at="2018-10-11T11:23:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toCheckInternationOrDomesticFlights status=SUCCESS method=RunScript.toCheckInternationOrDomesticFlights()[pri:2, instance:com.easemytrip.scripts.RunScript@6121c9d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="getScreen(org.testng.ITestResult)[pri:0, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="getScreen" is-config="true" duration-ms="0" started-at="2018-10-11T11:23:44Z" finished-at="2018-10-11T11:23:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=toCheckInternationOrDomesticFlights status=SUCCESS method=RunScript.toCheckInternationOrDomesticFlights()[pri:2, instance:com.easemytrip.scripts.RunScript@6121c9d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreen -->
+        <test-method status="PASS" signature="enteringEmailId()[pri:3, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="enteringEmailId" duration-ms="25994" started-at="2018-10-11T11:23:44Z" description=" Going to Enter Email Id:" depends-on-methods="com.easemytrip.scripts.RunScript.toCheckInternationOrDomesticFlights" finished-at="2018-10-11T11:24:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enteringEmailId -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="getResult" is-config="true" duration-ms="1" started-at="2018-10-11T11:24:10Z" finished-at="2018-10-11T11:24:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enteringEmailId status=SUCCESS method=RunScript.enteringEmailId()[pri:3, instance:com.easemytrip.scripts.RunScript@6121c9d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="getScreen(org.testng.ITestResult)[pri:0, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="getScreen" is-config="true" duration-ms="1" started-at="2018-10-11T11:24:10Z" finished-at="2018-10-11T11:24:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enteringEmailId status=SUCCESS method=RunScript.enteringEmailId()[pri:3, instance:com.easemytrip.scripts.RunScript@6121c9d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreen -->
+        <test-method status="PASS" signature="enteringAdults()[pri:4, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="enteringAdults" duration-ms="21738" started-at="2018-10-11T11:24:10Z" description="Going to enter travellers details:" depends-on-methods="com.easemytrip.scripts.RunScript.enteringEmailId" finished-at="2018-10-11T11:24:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enteringAdults -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="getResult" is-config="true" duration-ms="1" started-at="2018-10-11T11:24:32Z" finished-at="2018-10-11T11:24:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enteringAdults status=SUCCESS method=RunScript.enteringAdults()[pri:4, instance:com.easemytrip.scripts.RunScript@6121c9d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="getScreen(org.testng.ITestResult)[pri:0, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="getScreen" is-config="true" duration-ms="0" started-at="2018-10-11T11:24:32Z" finished-at="2018-10-11T11:24:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=enteringAdults status=SUCCESS method=RunScript.enteringAdults()[pri:4, instance:com.easemytrip.scripts.RunScript@6121c9d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getScreen -->
+        <test-method status="FAIL" signature="goingToMakePayment()[pri:5, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="goingToMakePayment" duration-ms="6424" started-at="2018-10-11T11:24:32Z" description="Going to enter payment details" depends-on-methods="com.easemytrip.scripts.RunScript.enteringAdults" finished-at="2018-10-11T11:24:38Z">
+          <exception class="java.lang.IndexOutOfBoundsException">
+            <message>
+              <![CDATA[Index: 9, Size: 8]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IndexOutOfBoundsException: Index: 9, Size: 8
+at java.util.ArrayList.rangeCheck(Unknown Source)
+at java.util.ArrayList.get(Unknown Source)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementListHandler.invoke(LocatingElementListHandler.java:39)
+at com.sun.proxy.$Proxy8.get(Unknown Source)
+at com.easemytrip.pageobjects.PaymentModePage.selectingPaymentOptions(PaymentModePage.java:238)
+at com.easemytrip.scripts.RunScript.goingToMakePayment(RunScript.java:125)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IndexOutOfBoundsException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goingToMakePayment -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="getResult" is-config="true" duration-ms="5004" started-at="2018-10-11T11:24:38Z" finished-at="2018-10-11T11:24:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=goingToMakePayment status=FAILURE method=RunScript.goingToMakePayment()[pri:5, instance:com.easemytrip.scripts.RunScript@6121c9d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="getScreen(org.testng.ITestResult)[pri:0, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="getScreen" is-config="true" duration-ms="169" started-at="2018-10-11T11:24:43Z" finished-at="2018-10-11T11:24:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=goingToMakePayment status=FAILURE method=RunScript.goingToMakePayment()[pri:5, instance:com.easemytrip.scripts.RunScript@6121c9d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Screenshot has been taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getScreen -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="endReport" is-config="true" duration-ms="317" started-at="2018-10-11T11:24:44Z" finished-at="2018-10-11T11:24:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.easemytrip.scripts.RunScript@6121c9d6]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-10-11T11:24:44Z" depends-on-methods="com.easemytrip.scripts.RunScript.endReport" finished-at="2018-10-11T11:24:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.easemytrip.scripts.RunScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Regression_Suite -->
+</testng-results>
